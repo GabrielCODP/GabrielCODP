@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com Back-End
 - 🌱 Estudando .Net
-- 😄 Pronouns: Ele/dele
 
  <div>
   <a href="https://github.com/GabrielCODP">
